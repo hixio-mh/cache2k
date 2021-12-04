@@ -40,7 +40,7 @@
     <dependency>
       <groupId>org.cache2k</groupId>
       <artifactId>cache2k-api</artifactId>
-      <version>${project.version}</version>
+      <version>1.6.0.Final</version>
     </dependency>
     <dependency>
       <groupId>org.cache2k</groupId>
